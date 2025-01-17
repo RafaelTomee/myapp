@@ -1,7 +1,6 @@
 # myapp
 
-A new Flutter project.
-
+Sistema desenvolvido vinculado a modulo 2 do talento tech.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
