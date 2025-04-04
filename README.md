@@ -19,5 +19,5 @@ Além disso, o app inclui um **FloatingActionButton (FAB)** com ícone de adiç�
 - O conteúdo central é dividido horizontalmente em três colunas com destaque na coluna central.
 - A interface segue o padrão de design Material 3 com temas personalizados.
 
-## Feito por Rafael Tomé da Silva
-## Atividade do Talento Tech Parana
+## 🧑‍💻 Autor
+Feito por Rafael Tomé da SIlva – Projeto de estudo em Flutter do Talento Tech Parana.
